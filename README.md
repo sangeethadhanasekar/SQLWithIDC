@@ -23,3 +23,4 @@ Let’s keep the streak burning 🔥
 | Day | Topic / Question | File | Status |
 |-----|------------------|------|---------|
 | 1 | Introduction to SQL & SELECT Statement | [Day01.sql](./Day1.sql) | ✅ Completed |
+| 2 | Introduction to SQL & SELECT Statement | [Day02.sql](./Day2.sql) | ✅ Completed |
