@@ -25,3 +25,5 @@ Let’s keep the streak burning 🔥
 | 1 | Introduction to SQL & SELECT Statement | [Day01.sql](./Day1.sql) | ✅ Completed |
 | 2 | Introduction to SQL & SELECT Statement | [Day02.sql](./Day2.sql) | ✅ Completed |
 | 3 | Introduction to SQL & SELECT Statement | [Day03.sql](./Day3.sql) | ✅ Completed |
+| 4 | Introduction to SQL & SELECT Statement | [Day04.sql](./Day4.sql) | ✅ Completed |
+
