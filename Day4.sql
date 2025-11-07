@@ -8,5 +8,6 @@ select * from patients  ORDER BY arrival_date DESC LIMIT 10;
 -- ### Daily Challenge:
 -- **Question:** Find the 3rd to 7th highest patient satisfaction scores from the patients table, 
 -- showing patient_id, name, service, and satisfaction. Display only these 5 records.
-select patient_id,name,service,satisfaction from patients LIMIT 5 OFFSET 3;
+WRONG: select patient_id,name,service,satisfaction from patients LIMIT 5 OFFSET 3;
+CORRECT: select patient_id,name,service,satisfaction from patients ORDER BY satisfaction DESC LIMIT 5 OFFSET 3;
 
