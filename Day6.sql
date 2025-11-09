@@ -8,6 +8,7 @@ select ROUND(AVG(age),2) as average_Age_of_patients,service from patients GROUP 
 select * from staff;
 select role, COUNT(*)as total_number_of_staff_member_per_role from staff GROUP BY role;
 
+
 -- Question: 
 -- For each hospital service, calculate the total number of patients admitted, total patients refused, 
 -- and the admission rate (percentage of requests that were admitted). Order by admission rate descending.
