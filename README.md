@@ -27,4 +27,5 @@ Let’s keep the streak burning 🔥
 | 3 | Introduction to SQL & SELECT Statement | [Day03.sql](./Day3.sql) | ✅ Completed |
 | 4 | Introduction to SQL & SELECT Statement | [Day04.sql](./Day4.sql) | ✅ Completed |
 | 5 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | [Day05.sql](./Day5.sql) | ✅ Completed |
+| 6 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | [Day06.sql](./Day6.sql) | ✅ Completed |
 
