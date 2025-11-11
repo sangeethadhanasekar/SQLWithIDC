@@ -29,5 +29,6 @@ Let’s keep the streak burning 🔥
 | 5 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | [Day05.sql](./Day5.sql) | ✅ Completed |
 | 6 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | [Day06.sql](./Day6.sql) | ✅ Completed |
 | 7 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | [Day07.sql](./Day7.sql) | ✅ Completed |
+| 8 |  Data Manipulation (String & Date Functions) | [Day08.sql](./Day8.sql) | ✅ Completed |
 
 
