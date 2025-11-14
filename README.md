@@ -32,6 +32,8 @@ Let’s keep the streak burning 🔥
 | 8 |  Data Manipulation (String & Date Functions) | [Day08.sql](./Day8.sql) | ✅ Completed |
 | 9 |  Data Manipulation (String & Date Functions) | [Day09.sql](./Day9.sql) | ✅ Completed |
 | 10 |  Conditional Logic (CASE, DISTINCT, NULL Handling) | [Day10.sql](./Day10.sql) | ✅ Completed |
+| 11 |  Conditional Logic (CASE, DISTINCT, NULL Handling) | [Day11.sql](./Day11.sql) | ✅ Completed |
+
 
 
 
