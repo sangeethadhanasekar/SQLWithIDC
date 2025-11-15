@@ -12,7 +12,7 @@ select DIStiNCT month from services_weekly ORDER BY month ASC;
 -- where events are not null or none, along with the count of occurrences for each combination. 
 -- Order by count descending.
 select * from services_weekly;
-select DISTINCt service, event ,count(service) as occureneces_combination from services_weekly WHERE event IS NOT NULL GROUP BY event;
+-- select DISTINCt service, event ,count(service) as occureneces_combination from services_weekly WHERE event IS NOT NULL GROUP BY event;
 
 SELECT service,  event, COUNT(service) AS occurrences_combination
 FROM services_weekly
