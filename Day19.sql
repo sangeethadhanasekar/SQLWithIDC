@@ -35,7 +35,9 @@ GROUP BY service;
 -- Quick mental trick
 -- GROUP BY = squish rows together, aggregate
 -- Window function = stay row by row, just calculate extra info
-
+-- LAG(column, offset) → looks backward from the current row
+-- LEAD(column, offset) → looks forward from the current row
+-- offset is optional and defaults to 1.
 
 -- ### Practice Questions:
 -- 1. Rank patients by satisfaction score within each service.
