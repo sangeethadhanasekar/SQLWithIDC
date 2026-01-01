@@ -33,16 +33,16 @@ Let’s keep the streak burning 🔥
 | 9 |  Data Manipulation (String & Date Functions) | [Day09.sql](./Day9.sql) | ✅ Completed |
 | 10 |  Conditional Logic (CASE, DISTINCT, NULL Handling) | [Day10.sql](./Day10.sql) | ✅ Completed |
 | 11 |  Conditional Logic (CASE, DISTINCT, NULL Handling) | [Day11.sql](./Day11.sql) | ✅ Completed |
-| 12 |  Conditional Logic (CASE, DISTINCT, NULL Handling) | [Day11.sql](./Day12.sql) | ✅ Completed |
-| 13 |  Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins) | [Day11.sql](./Day13.sql) | ✅ Completed |
-| 14 |  Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins) | [Day11.sql](./Day14.sql) | ✅ Completed |
-| 15 |  Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins) | [Day11.sql](./Day15.sql) | ✅ Completed |
-| 16 |  Advanced Queries (Subqueries, UNION) | [Day11.sql](./Day16.sql) | ✅ Completed |
-| 17 |  Advanced Queries (Subqueries, UNION) | [Day11.sql](./Day17.sql) | ✅ Completed |
-| 18 |  Advanced Queries (Subqueries, UNION) | [Day11.sql](./Day18.sql) | ✅ Completed |
-| 19 |  Analytical Functions (Window Functions) | [Day11.sql](./Day19.sql) | ✅ Completed |
-| 20 |  Analytical Functions (Window Functions) | [Day11.sql](./Day20.sql) | ✅ Completed |
-| 21 |  Query Organisation (CTEs) | [Day11.sql](./Day21.sql) | ✅ Completed |
+| 12 |  Conditional Logic (CASE, DISTINCT, NULL Handling) | [Day12.sql](./Day12.sql) | ✅ Completed |
+| 13 |  Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins) | [Day13.sql](./Day13.sql) | ✅ Completed |
+| 14 |  Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins) | [Day14.sql](./Day14.sql) | ✅ Completed |
+| 15 |  Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins) | [Day15.sql](./Day15.sql) | ✅ Completed |
+| 16 |  Advanced Queries (Subqueries, UNION) | [Day16.sql](./Day16.sql) | ✅ Completed |
+| 17 |  Advanced Queries (Subqueries, UNION) | [Day17.sql](./Day17.sql) | ✅ Completed |
+| 18 |  Advanced Queries (Subqueries, UNION) | [Day18.sql](./Day18.sql) | ✅ Completed |
+| 19 |  Analytical Functions (Window Functions) | [Day19.sql](./Day19.sql) | ✅ Completed |
+| 20 |  Analytical Functions (Window Functions) | [Day20.sql](./Day20.sql) | ✅ Completed |
+| 21 |  Query Organisation (CTEs) | [Day21.sql](./Day21.sql) | ✅ Completed |
 
 
 ## 🔄 Update
