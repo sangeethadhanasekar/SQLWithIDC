@@ -43,6 +43,8 @@ Let’s keep the streak burning 🔥
 | 19 |  Analytical Functions (Window Functions) | [Day19.sql](./Day19.sql) | ✅ Completed |
 | 20 |  Analytical Functions (Window Functions) | [Day20.sql](./Day20.sql) | ✅ Completed |
 | 21 |  Query Organisation (CTEs) | [Day21.sql](./Day21.sql) | ✅ Completed |
+| 22 |  Capstone Project | [Capstone Project](./capstoneproject_murdermystery.sql) | ✅ Completed |
+| 23 |  MiniProject | [MiniProject](./MiniProject.sql) | ✅ Completed |
 
 
 ## 🔄 Update
